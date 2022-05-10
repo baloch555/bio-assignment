@@ -1,0 +1,30 @@
+.editor-wrapper{
+    width:89%;
+    min-height: 91vh;
+    /* background-color: rgb(72, 75, 75); */
+    position:absolute;
+    left: 202px;
+    top: 75px;
+}
+.text-editor{
+    background-color: rgb(95, 102, 102);
+    min-width: 80%;
+    min-height: 80vh;
+    max-height: 86vh;
+    margin-left: 20px;
+}
+.editor-body{
+    background-color: white;
+    width: 98%;
+    margin-left: 10px;
+    border-radius: 10px;
+    /* overflow: hidden; */
+    max-height: 80vh;
+}
+.editor-menu{
+    text-decoration: none;
+    list-style: none;
+}
+.editor-menu li {
+    
+}

@@ -1,0 +1,7 @@
+.sidebar-wrapper li{
+    padding: 0.5rem;
+    color: white;
+    font-size: 18px;
+    background-color: darkslategray;
+    margin-bottom: 5px;
+}
